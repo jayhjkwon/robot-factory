@@ -7,7 +7,7 @@
 ## Quick Start
 ```sh
 npm install
-npm start
+npm run dev
 ```
 
 ## Run test

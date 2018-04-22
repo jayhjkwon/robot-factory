@@ -45,7 +45,7 @@ describe('actionCreators', () => {
   })
 
   it('getRobotsForQA action creator should create successRobotsForQA type action', async () => {
-    fetchMock.getOnce('http://localhost:3001/robots.json', [])
+    fetchMock.getOnce('/robots.json', [])
 
     const action = await actionCreators.getRobotsForQA()(
       mockedDispatch,
@@ -56,7 +56,7 @@ describe('actionCreators', () => {
   })
 
   it('extinguishRobot action creator should create successExtinguish type action', async () => {
-    fetchMock.post('http://localhost:3001/robots/1/extinguish.json', 'true')
+    fetchMock.post('/robots/1/extinguish.json', 'true')
 
     const action = await actionCreators.extinguishRobot(1)(
       mockedDispatch,
@@ -67,7 +67,7 @@ describe('actionCreators', () => {
   })
 
   it('extinguishRobot action creator should create failExtinguish type action', async () => {
-    fetchMock.post('http://localhost:3001/robots/1/extinguish.json', 'true')
+    fetchMock.post('/robots/1/extinguish.json', 'true')
 
     const action = await actionCreators.extinguishRobot(10)(
       mockedDispatch,
@@ -78,7 +78,7 @@ describe('actionCreators', () => {
   })
 
   it('recycleRobots action creator should create successRecycle type action', async () => {
-    fetchMock.post('http://localhost:3001/robots/recycle.json', 'true')
+    fetchMock.post('/robots/recycle.json', 'true')
 
     const action = await actionCreators.recycleRobots([1, 2, 3])(
       mockedDispatch,
@@ -134,7 +134,7 @@ describe('actionCreators', () => {
   })
 
   it('sendShipment action creator should create successSendShipment type action', async () => {
-    fetchMock.put('http://localhost:3001/shipments/create', 'true')
+    fetchMock.put('/shipments/create', 'true')
 
     const action = await actionCreators.sendShipment([1, 2, 3])(
       mockedDispatch,

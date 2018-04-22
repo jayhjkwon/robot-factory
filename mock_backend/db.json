@@ -1,213 +1,64 @@
 {
   "robots": [
     {
-      "id": 1589,
-      "name": "Valerie",
+      "id": 1968,
+      "name": "Anastacio",
       "configuration": {
         "hasSentience": true,
         "hasWheels": false,
         "hasTracks": true,
-        "numberOfRotors": 3,
-        "colour": "blue"
-      },
-      "statuses": [
-        "paint scratched",
-        "loose screws"
-      ]
-    },
-    {
-      "id": 714,
-      "name": "Zachary",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": false,
-        "numberOfRotors": 2,
+        "numberOfRotors": 4,
         "colour": "white"
-      },
-      "statuses": [
-        "on fire",
-        "rusty",
-        "paint scratched",
-        "loose screws"
-      ]
-    },
-    {
-      "id": 1905,
-      "name": "Donald",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": false,
-        "numberOfRotors": 1,
-        "colour": "white"
-      },
-      "statuses": [
-        "on fire",
-        "rusty",
-        "paint scratched",
-        "loose screws"
-      ]
-    },
-    {
-      "id": 1313,
-      "name": "Janessa",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": true,
-        "numberOfRotors": 2,
-        "colour": "yellow"
-      },
-      "statuses": [
-        "rusty",
-        "loose screws",
-        "on fire"
-      ]
-    },
-    {
-      "id": 1823,
-      "name": "Brendan",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": false,
-        "numberOfRotors": 1,
-        "colour": "blue"
-      },
-      "statuses": [
-        "paint scratched",
-        "loose screws",
-        "on fire"
-      ]
-    },
-    {
-      "id": 1692,
-      "name": "Rosalyn",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": true,
-        "numberOfRotors": 1,
-        "colour": "yellow"
-      }
-    },
-    {
-      "id": 1369,
-      "name": "Micah",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": true,
-        "numberOfRotors": 2,
-        "colour": "blue"
-      }
-    },
-    {
-      "id": 1395,
-      "name": "Kacey",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": true,
-        "numberOfRotors": 2,
-        "colour": "white"
-      },
-      "statuses": [
-        "on fire"
-      ]
-    },
-    {
-      "id": 1688,
-      "name": "Minerva",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": true,
-        "numberOfRotors": 3,
-        "colour": "yellow"
-      },
-      "statuses": [
-        "loose screws"
-      ]
-    },
-    {
-      "id": 472,
-      "name": "Lillie",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": true,
-        "numberOfRotors": 3,
-        "colour": "blue"
-      },
-      "statuses": [
-        "paint scratched",
-        "rusty",
-        "on fire"
-      ]
-    },
-    {
-      "id": 622,
-      "name": "Noemi",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": true,
-        "numberOfRotors": 1,
-        "colour": "yellow"
-      },
-      "statuses": [
-        "loose screws",
-        "on fire"
-      ]
-    },
-    {
-      "id": 1890,
-      "name": "Garnet",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": false,
-        "numberOfRotors": 3,
-        "colour": "blue"
       },
       "statuses": [
         "rusty"
       ]
     },
     {
-      "id": 1373,
-      "name": "Barney",
+      "id": 1078,
+      "name": "Ruthe",
       "configuration": {
         "hasSentience": true,
-        "hasWheels": true,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 4,
+        "colour": "black"
+      },
+      "statuses": [
+        "rusty",
+        "paint scratched",
+        "loose screws"
+      ]
+    },
+    {
+      "id": 1224,
+      "name": "Laurie",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
         "hasTracks": false,
         "numberOfRotors": 3,
         "colour": "yellow"
       }
     },
     {
-      "id": 997,
-      "name": "Vanessa",
+      "id": 84,
+      "name": "Abner",
       "configuration": {
         "hasSentience": true,
         "hasWheels": false,
-        "hasTracks": false,
-        "numberOfRotors": 2,
-        "colour": "blue"
-      },
-      "statuses": [
-        "loose screws"
-      ]
+        "hasTracks": true,
+        "numberOfRotors": 4,
+        "colour": "black"
+      }
     },
     {
-      "id": 480,
-      "name": "Mike",
+      "id": 1968,
+      "name": "Shakira",
       "configuration": {
         "hasSentience": true,
         "hasWheels": false,
-        "hasTracks": false,
+        "hasTracks": true,
         "numberOfRotors": 2,
         "colour": "red"
       },
@@ -217,52 +68,8 @@
       ]
     },
     {
-      "id": 1354,
-      "name": "Maida",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": true,
-        "numberOfRotors": 4,
-        "colour": "white"
-      },
-      "statuses": [
-        "on fire",
-        "loose screws",
-        "rusty"
-      ]
-    },
-    {
-      "id": 364,
-      "name": "Cristobal",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": false,
-        "numberOfRotors": 3,
-        "colour": "black"
-      },
-      "statuses": [
-        "loose screws"
-      ]
-    },
-    {
-      "id": 1223,
-      "name": "Karianne",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": false,
-        "numberOfRotors": 1,
-        "colour": "white"
-      },
-      "statuses": [
-        "loose screws"
-      ]
-    },
-    {
-      "id": 1904,
-      "name": "Isabell",
+      "id": 1680,
+      "name": "Eda",
       "configuration": {
         "hasSentience": true,
         "hasWheels": false,
@@ -271,825 +78,596 @@
         "colour": "yellow"
       },
       "statuses": [
+        "loose screws"
+      ]
+    },
+    {
+      "id": 1984,
+      "name": "Gregoria",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 4,
+        "colour": "red"
+      },
+      "statuses": [
+        "loose screws"
+      ]
+    },
+    {
+      "id": 810,
+      "name": "Kelly",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": true,
+        "hasTracks": false,
+        "numberOfRotors": 4,
+        "colour": "white"
+      }
+    },
+    {
+      "id": 558,
+      "name": "Matteo",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": true,
+        "numberOfRotors": 3,
+        "colour": "white"
+      },
+      "statuses": [
+        "loose screws"
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Fiona",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": true,
+        "numberOfRotors": 2,
+        "colour": "red"
+      },
+      "statuses": [
+        "paint scratched"
+      ]
+    },
+    {
+      "id": 965,
+      "name": "Blanca",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": true,
+        "hasTracks": false,
+        "numberOfRotors": 4,
+        "colour": "red"
+      },
+      "statuses": [
+        "paint scratched"
+      ]
+    },
+    {
+      "id": 753,
+      "name": "Evie",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": true,
+        "numberOfRotors": 3,
+        "colour": "white"
+      }
+    },
+    {
+      "id": 1236,
+      "name": "Wilfred",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": true,
+        "numberOfRotors": 3,
+        "colour": "black"
+      },
+      "statuses": [
+        "loose screws",
+        "paint scratched",
+        "rusty"
+      ]
+    },
+    {
+      "id": 293,
+      "name": "Domingo",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 4,
+        "colour": "black"
+      },
+      "statuses": [
         "rusty",
         "paint scratched",
         "loose screws"
       ]
+    },
+    {
+      "id": 1547,
+      "name": "Ethelyn",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": true,
+        "numberOfRotors": 4,
+        "colour": "white"
+      },
+      "statuses": [
+        "paint scratched",
+        "rusty"
+      ]
+    },
+    {
+      "id": 833,
+      "name": "Helen",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": true,
+        "numberOfRotors": 3,
+        "colour": "yellow"
+      },
+      "statuses": [
+        "rusty",
+        "paint scratched",
+        "loose screws"
+      ]
+    },
+    {
+      "id": 1351,
+      "name": "Roel",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 4,
+        "colour": "yellow"
+      },
+      "statuses": [
+        "loose screws"
+      ]
+    },
+    {
+      "id": 468,
+      "name": "Karen",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": true,
+        "numberOfRotors": 4,
+        "colour": "white"
+      },
+      "statuses": [
+        "loose screws"
+      ]
+    },
+    {
+      "id": 391,
+      "name": "Else",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": true,
+        "hasTracks": false,
+        "numberOfRotors": 3,
+        "colour": "white"
+      }
+    },
+    {
+      "id": 1351,
+      "name": "Braulio",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 3,
+        "colour": "black"
+      },
+      "statuses": [
+        "on fire",
+        "rusty"
+      ]
+    },
+    {
+      "id": 788,
+      "name": "Albertha",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 3,
+        "colour": "red"
+      },
+      "statuses": [
+        "paint scratched",
+        "rusty"
+      ]
+    },
+    {
+      "id": 1303,
+      "name": "Agnes",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": true,
+        "hasTracks": false,
+        "numberOfRotors": 4,
+        "colour": "yellow"
+      },
+      "statuses": [
+        "paint scratched"
+      ]
+    },
+    {
+      "id": 564,
+      "name": "Jacinthe",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 4,
+        "colour": "white"
+      }
+    },
+    {
+      "id": 1525,
+      "name": "Roberto",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": true,
+        "hasTracks": false,
+        "numberOfRotors": 3,
+        "colour": "white"
+      },
+      "statuses": [
+        "paint scratched",
+        "loose screws"
+      ]
+    },
+    {
+      "id": 1275,
+      "name": "Maximo",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 3,
+        "colour": "white"
+      }
+    },
+    {
+      "id": 1558,
+      "name": "Rosetta",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": true,
+        "numberOfRotors": 4,
+        "colour": "white"
+      }
+    },
+    {
+      "id": 105,
+      "name": "Maiya",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": true,
+        "hasTracks": false,
+        "numberOfRotors": 3,
+        "colour": "black"
+      }
+    },
+    {
+      "id": 1511,
+      "name": "Glenda",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 4,
+        "colour": "black"
+      },
+      "statuses": [
+        "loose screws",
+        "rusty",
+        "paint scratched"
+      ]
+    },
+    {
+      "id": 205,
+      "name": "Marcel",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": true,
+        "numberOfRotors": 3,
+        "colour": "red"
+      }
+    },
+    {
+      "id": 694,
+      "name": "Dagmar",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": true,
+        "numberOfRotors": 3,
+        "colour": "yellow"
+      }
+    },
+    {
+      "id": 245,
+      "name": "Willa",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 4,
+        "colour": "red"
+      }
+    },
+    {
+      "id": 300,
+      "name": "Michael",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 4,
+        "colour": "white"
+      },
+      "statuses": [
+        "rusty",
+        "loose screws",
+        "paint scratched"
+      ]
+    },
+    {
+      "id": 1679,
+      "name": "Robyn",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 4,
+        "colour": "black"
+      },
+      "statuses": [
+        "loose screws",
+        "rusty"
+      ]
+    },
+    {
+      "id": 983,
+      "name": "Amya",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 3,
+        "colour": "white"
+      },
+      "statuses": [
+        "loose screws"
+      ]
+    },
+    {
+      "id": 984,
+      "name": "Rose",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": true,
+        "numberOfRotors": 4,
+        "colour": "white"
+      },
+      "statuses": [
+        "rusty",
+        "loose screws",
+        "paint scratched"
+      ]
+    },
+    {
+      "id": 1433,
+      "name": "Yoshiko",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 4,
+        "colour": "red"
+      }
+    },
+    {
+      "id": 1968,
+      "name": "Doug",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": true,
+        "numberOfRotors": 3,
+        "colour": "black"
+      },
+      "statuses": [
+        "rusty"
+      ]
+    },
+    {
+      "id": 1653,
+      "name": "Zachery",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 4,
+        "colour": "yellow"
+      },
+      "statuses": [
+        "paint scratched",
+        "loose screws"
+      ]
+    },
+    {
+      "id": 1229,
+      "name": "Mustafa",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": true,
+        "numberOfRotors": 3,
+        "colour": "white"
+      },
+      "statuses": [
+        "rusty",
+        "loose screws"
+      ]
+    },
+    {
+      "id": 1334,
+      "name": "Madelyn",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 4,
+        "colour": "white"
+      }
     },
     {
       "id": 1820,
-      "name": "Harmony",
+      "name": "Krystal",
       "configuration": {
         "hasSentience": true,
         "hasWheels": false,
         "hasTracks": true,
-        "numberOfRotors": 3,
+        "numberOfRotors": 4,
+        "colour": "yellow"
+      },
+      "statuses": [
+        "rusty"
+      ]
+    },
+    {
+      "id": 1331,
+      "name": "Audie",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 4,
         "colour": "yellow"
       }
-    },
-    {
-      "id": 592,
-      "name": "Lenora",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": false,
-        "numberOfRotors": 2,
-        "colour": "yellow"
-      },
-      "statuses": [
-        "loose screws",
-        "paint scratched",
-        "on fire"
-      ]
-    },
-    {
-      "id": 249,
-      "name": "Carmela",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": false,
-        "numberOfRotors": 2,
-        "colour": "black"
-      },
-      "statuses": [
-        "loose screws"
-      ]
-    },
-    {
-      "id": 1696,
-      "name": "Ottilie",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": true,
-        "numberOfRotors": 2,
-        "colour": "blue"
-      },
-      "statuses": [
-        "rusty",
-        "on fire"
-      ]
-    },
-    {
-      "id": 1544,
-      "name": "Margarita",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": false,
-        "numberOfRotors": 2,
-        "colour": "blue"
-      },
-      "statuses": [
-        "on fire"
-      ]
-    },
-    {
-      "id": 14,
-      "name": "Dixie",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": true,
-        "numberOfRotors": 3,
-        "colour": "white"
-      },
-      "statuses": [
-        "loose screws",
-        "paint scratched",
-        "on fire",
-        "rusty"
-      ]
-    },
-    {
-      "id": 1287,
-      "name": "Oran",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": false,
-        "numberOfRotors": 3,
-        "colour": "blue"
-      },
-      "statuses": [
-        "paint scratched",
-        "on fire"
-      ]
-    },
-    {
-      "id": 1463,
-      "name": "Maegan",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": true,
-        "numberOfRotors": 2,
-        "colour": "black"
-      },
-      "statuses": [
-        "rusty",
-        "on fire"
-      ]
-    },
-    {
-      "id": 1012,
-      "name": "Pattie",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": true,
-        "numberOfRotors": 4,
-        "colour": "black"
-      },
-      "statuses": [
-        "on fire",
-        "rusty",
-        "paint scratched"
-      ]
-    },
-    {
-      "id": 1003,
-      "name": "Mylene",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": true,
-        "numberOfRotors": 1,
-        "colour": "red"
-      },
-      "statuses": [
-        "rusty",
-        "paint scratched",
-        "on fire"
-      ]
-    },
-    {
-      "id": 487,
-      "name": "Zackary",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": false,
-        "numberOfRotors": 3,
-        "colour": "yellow"
-      },
-      "statuses": [
-        "rusty"
-      ]
-    },
-    {
-      "id": 926,
-      "name": "Zula",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": true,
-        "numberOfRotors": 4,
-        "colour": "red"
-      },
-      "statuses": [
-        "paint scratched",
-        "rusty",
-        "loose screws"
-      ]
-    },
-    {
-      "id": 1348,
-      "name": "Jimmy",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": true,
-        "numberOfRotors": 1,
-        "colour": "black"
-      },
-      "statuses": [
-        "rusty",
-        "paint scratched",
-        "on fire"
-      ]
-    },
-    {
-      "id": 1847,
-      "name": "Fannie",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": false,
-        "numberOfRotors": 3,
-        "colour": "black"
-      },
-      "statuses": [
-        "on fire"
-      ]
-    },
-    {
-      "id": 612,
-      "name": "Macey",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": true,
-        "numberOfRotors": 3,
-        "colour": "white"
-      }
-    },
-    {
-      "id": 1695,
-      "name": "Sallie",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": false,
-        "numberOfRotors": 4,
-        "colour": "yellow"
-      },
-      "statuses": [
-        "on fire",
-        "paint scratched",
-        "loose screws",
-        "rusty"
-      ]
-    },
-    {
-      "id": 1798,
-      "name": "Priscilla",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": false,
-        "numberOfRotors": 4,
-        "colour": "red"
-      },
-      "statuses": [
-        "loose screws",
-        "paint scratched",
-        "rusty"
-      ]
-    },
-    {
-      "id": 400,
-      "name": "Theresia",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": false,
-        "numberOfRotors": 3,
-        "colour": "yellow"
-      },
-      "statuses": [
-        "rusty"
-      ]
-    },
-    {
-      "id": 1419,
-      "name": "Dayton",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": true,
-        "numberOfRotors": 2,
-        "colour": "white"
-      },
-      "statuses": [
-        "loose screws",
-        "rusty",
-        "paint scratched"
-      ]
-    },
-    {
-      "id": 177,
-      "name": "Pablo",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": false,
-        "numberOfRotors": 1,
-        "colour": "blue"
-      }
-    },
-    {
-      "id": 1796,
-      "name": "Isac",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": false,
-        "numberOfRotors": 1,
-        "colour": "red"
-      },
-      "statuses": [
-        "rusty",
-        "on fire"
-      ]
-    },
-    {
-      "id": 522,
-      "name": "Precious",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": false,
-        "numberOfRotors": 4,
-        "colour": "yellow"
-      },
-      "statuses": [
-        "rusty",
-        "paint scratched"
-      ]
-    },
-    {
-      "id": 1698,
-      "name": "Conrad",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": false,
-        "numberOfRotors": 1,
-        "colour": "yellow"
-      },
-      "statuses": [
-        "loose screws"
-      ]
-    },
-    {
-      "id": 1401,
-      "name": "Frances",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": true,
-        "numberOfRotors": 1,
-        "colour": "blue"
-      }
-    },
-    {
-      "id": 970,
-      "name": "Julian",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": false,
-        "numberOfRotors": 1,
-        "colour": "white"
-      },
-      "statuses": [
-        "rusty"
-      ]
-    },
-    {
-      "id": 635,
-      "name": "Virginie",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": false,
-        "numberOfRotors": 1,
-        "colour": "blue"
-      },
-      "statuses": [
-        "rusty",
-        "on fire",
-        "paint scratched",
-        "loose screws"
-      ]
-    },
-    {
-      "id": 1851,
-      "name": "Geovanni",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": true,
-        "numberOfRotors": 3,
-        "colour": "blue"
-      },
-      "statuses": [
-        "loose screws",
-        "rusty"
-      ]
-    },
-    {
-      "id": 769,
-      "name": "Clovis",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": true,
-        "numberOfRotors": 4,
-        "colour": "yellow"
-      },
-      "statuses": [
-        "rusty",
-        "paint scratched"
-      ]
-    },
-    {
-      "id": 573,
-      "name": "Abigale",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": true,
-        "numberOfRotors": 3,
-        "colour": "white"
-      }
-    },
-    {
-      "id": 221,
-      "name": "Joey",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": false,
-        "numberOfRotors": 3,
-        "colour": "white"
-      },
-      "statuses": [
-        "paint scratched",
-        "on fire"
-      ]
-    },
-    {
-      "id": 1159,
-      "name": "Kassandra",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": false,
-        "numberOfRotors": 2,
-        "colour": "red"
-      },
-      "statuses": [
-        "loose screws",
-        "rusty",
-        "on fire",
-        "paint scratched"
-      ]
-    },
-    {
-      "id": 1787,
-      "name": "Rodrick",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": true,
-        "numberOfRotors": 1,
-        "colour": "blue"
-      },
-      "statuses": [
-        "paint scratched",
-        "loose screws",
-        "rusty"
-      ]
-    },
-    {
-      "id": 38,
-      "name": "Rosendo",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": false,
-        "numberOfRotors": 2,
-        "colour": "yellow"
-      },
-      "statuses": [
-        "loose screws",
-        "paint scratched",
-        "rusty",
-        "on fire"
-      ]
-    },
-    {
-      "id": 1354,
-      "name": "Roscoe",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": false,
-        "numberOfRotors": 3,
-        "colour": "black"
-      },
-      "statuses": [
-        "paint scratched",
-        "loose screws"
-      ]
     },
     {
       "id": 379,
-      "name": "Otto",
+      "name": "Dasia",
       "configuration": {
         "hasSentience": true,
-        "hasWheels": false,
+        "hasWheels": true,
         "hasTracks": false,
         "numberOfRotors": 3,
+        "colour": "red"
+      }
+    },
+    {
+      "id": 564,
+      "name": "Madaline",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": true,
+        "hasTracks": true,
+        "numberOfRotors": 2,
         "colour": "yellow"
       },
       "statuses": [
-        "on fire",
-        "loose screws",
         "paint scratched"
       ]
     },
     {
-      "id": 1376,
-      "name": "Betsy",
+      "id": 341,
+      "name": "Leanne",
       "configuration": {
         "hasSentience": true,
         "hasWheels": false,
         "hasTracks": false,
-        "numberOfRotors": 1,
-        "colour": "blue"
-      },
-      "statuses": [
-        "loose screws",
-        "paint scratched"
-      ]
-    },
-    {
-      "id": 1448,
-      "name": "Kamron",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": true,
         "numberOfRotors": 3,
         "colour": "red"
       },
       "statuses": [
-        "paint scratched",
-        "rusty"
-      ]
-    },
-    {
-      "id": 576,
-      "name": "Amy",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": true,
-        "numberOfRotors": 4,
-        "colour": "white"
-      },
-      "statuses": [
-        "paint scratched"
-      ]
-    },
-    {
-      "id": 1748,
-      "name": "Tatyana",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": false,
-        "numberOfRotors": 3,
-        "colour": "white"
-      },
-      "statuses": [
-        "rusty"
-      ]
-    },
-    {
-      "id": 1656,
-      "name": "Harmony",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": false,
-        "numberOfRotors": 4,
-        "colour": "white"
-      },
-      "statuses": [
-        "on fire"
-      ]
-    },
-    {
-      "id": 1473,
-      "name": "Dedric",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": true,
-        "numberOfRotors": 4,
-        "colour": "yellow"
-      },
-      "statuses": [
-        "paint scratched"
-      ]
-    },
-    {
-      "id": 980,
-      "name": "Jessie",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": false,
-        "numberOfRotors": 4,
-        "colour": "white"
-      },
-      "statuses": [
-        "paint scratched",
         "loose screws",
-        "on fire",
-        "rusty"
+        "paint scratched"
       ]
     },
     {
-      "id": 385,
-      "name": "Keyshawn",
+      "id": 1745,
+      "name": "Maxime",
       "configuration": {
         "hasSentience": true,
-        "hasWheels": true,
+        "hasWheels": false,
         "hasTracks": true,
-        "numberOfRotors": 3,
+        "numberOfRotors": 4,
         "colour": "yellow"
       },
       "statuses": [
+        "paint scratched",
         "rusty",
-        "on fire",
-        "loose screws",
-        "paint scratched"
-      ]
-    },
-    {
-      "id": 1507,
-      "name": "Warren",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": false,
-        "numberOfRotors": 3,
-        "colour": "black"
-      },
-      "statuses": [
-        "paint scratched"
-      ]
-    },
-    {
-      "id": 81,
-      "name": "Vicky",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": true,
-        "numberOfRotors": 2,
-        "colour": "white"
-      },
-      "statuses": [
-        "rusty"
-      ]
-    },
-    {
-      "id": 1485,
-      "name": "Agustin",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": true,
-        "numberOfRotors": 3,
-        "colour": "black"
-      },
-      "statuses": [
-        "loose screws",
-        "paint scratched",
-        "rusty"
-      ]
-    },
-    {
-      "id": 1250,
-      "name": "Kaleb",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": true,
-        "numberOfRotors": 4,
-        "colour": "yellow"
-      },
-      "statuses": [
-        "paint scratched",
-        "loose screws",
-        "on fire"
-      ]
-    },
-    {
-      "id": 1102,
-      "name": "Freddy",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": true,
-        "numberOfRotors": 3,
-        "colour": "yellow"
-      }
-    },
-    {
-      "id": 1676,
-      "name": "Maryam",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": false,
-        "numberOfRotors": 4,
-        "colour": "black"
-      },
-      "statuses": [
-        "on fire"
-      ]
-    },
-    {
-      "id": 1148,
-      "name": "Americo",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": true,
-        "numberOfRotors": 1,
-        "colour": "white"
-      },
-      "statuses": [
-        "on fire",
-        "rusty"
-      ]
-    },
-    {
-      "id": 317,
-      "name": "Kelly",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": true,
-        "numberOfRotors": 3,
-        "colour": "white"
-      }
-    },
-    {
-      "id": 573,
-      "name": "Herman",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": true,
-        "numberOfRotors": 2,
-        "colour": "black"
-      },
-      "statuses": [
-        "on fire",
-        "rusty",
-        "paint scratched"
-      ]
-    },
-    {
-      "id": 538,
-      "name": "Zelma",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": false,
-        "numberOfRotors": 4,
-        "colour": "blue"
-      }
-    },
-    {
-      "id": 1111,
-      "name": "Armani",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": true,
-        "numberOfRotors": 3,
-        "colour": "white"
-      },
-      "statuses": [
-        "paint scratched",
-        "loose screws",
-        "on fire"
-      ]
-    },
-    {
-      "id": 275,
-      "name": "Judy",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": false,
-        "numberOfRotors": 1,
-        "colour": "black"
-      },
-      "statuses": [
-        "on fire",
         "loose screws"
       ]
     },
     {
-      "id": 987,
-      "name": "Leonel",
+      "id": 389,
+      "name": "Harley",
       "configuration": {
         "hasSentience": true,
         "hasWheels": false,
+        "hasTracks": true,
+        "numberOfRotors": 3,
+        "colour": "yellow"
+      },
+      "statuses": [
+        "rusty"
+      ]
+    },
+    {
+      "id": 1319,
+      "name": "Cameron",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": true,
+        "numberOfRotors": 4,
+        "colour": "red"
+      },
+      "statuses": [
+        "rusty"
+      ]
+    },
+    {
+      "id": 1585,
+      "name": "Jany",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": true,
         "hasTracks": false,
-        "numberOfRotors": 1,
+        "numberOfRotors": 4,
+        "colour": "black"
+      }
+    },
+    {
+      "id": 1455,
+      "name": "Frederik",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": true,
+        "hasTracks": false,
+        "numberOfRotors": 3,
         "colour": "yellow"
       },
       "statuses": [
@@ -1097,13 +675,13 @@
       ]
     },
     {
-      "id": 656,
-      "name": "Hershel",
+      "id": 1900,
+      "name": "Garrick",
       "configuration": {
         "hasSentience": true,
-        "hasWheels": false,
-        "hasTracks": true,
-        "numberOfRotors": 2,
+        "hasWheels": true,
+        "hasTracks": false,
+        "numberOfRotors": 3,
         "colour": "yellow"
       },
       "statuses": [
@@ -1111,79 +689,104 @@
       ]
     },
     {
-      "id": 1688,
-      "name": "Bridie",
+      "id": 666,
+      "name": "Xavier",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": true,
+        "numberOfRotors": 3,
+        "colour": "white"
+      },
+      "statuses": [
+        "paint scratched"
+      ]
+    },
+    {
+      "id": 1229,
+      "name": "Ignatius",
       "configuration": {
         "hasSentience": true,
         "hasWheels": true,
         "hasTracks": false,
+        "numberOfRotors": 3,
+        "colour": "white"
+      },
+      "statuses": [
+        "paint scratched",
+        "loose screws"
+      ]
+    },
+    {
+      "id": 1355,
+      "name": "Betty",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": true,
         "numberOfRotors": 4,
-        "colour": "blue"
+        "colour": "black"
       },
       "statuses": [
         "rusty"
       ]
     },
     {
-      "id": 944,
-      "name": "Margarette",
-      "configuration": {
-        "hasSentience": true,
-        "hasWheels": true,
-        "hasTracks": true,
-        "numberOfRotors": 1,
-        "colour": "red"
-      },
-      "statuses": [
-        "rusty",
-        "on fire"
-      ]
-    },
-    {
-      "id": 329,
-      "name": "Kelly",
+      "id": 1197,
+      "name": "Jaclyn",
       "configuration": {
         "hasSentience": true,
         "hasWheels": false,
         "hasTracks": false,
-        "numberOfRotors": 2,
-        "colour": "red"
+        "numberOfRotors": 4,
+        "colour": "white"
+      }
+    }
+  ],
+  "shippedRobots": [
+    {
+      "id": 94,
+      "name": "Priscilla",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 4,
+        "colour": "white"
       },
       "statuses": [
         "paint scratched",
-        "on fire",
         "rusty",
         "loose screws"
       ]
     },
     {
-      "id": 546,
-      "name": "Adolfo",
+      "id": 23,
+      "name": "Wilber",
       "configuration": {
         "hasSentience": true,
         "hasWheels": true,
         "hasTracks": false,
-        "numberOfRotors": 3,
+        "numberOfRotors": 4,
         "colour": "red"
       },
       "statuses": [
-        "loose screws",
-        "rusty",
-        "on fire"
+        "loose screws"
       ]
     },
     {
-      "id": 556,
-      "name": "Tiffany",
+      "id": 217,
+      "name": "Jaydon",
       "configuration": {
         "hasSentience": true,
         "hasWheels": false,
-        "hasTracks": true,
-        "numberOfRotors": 3,
-        "colour": "black"
+        "hasTracks": false,
+        "numberOfRotors": 4,
+        "colour": "yellow"
       },
       "statuses": [
-        "on fire"
+        "rusty",
+        "paint scratched"
       ]
     }
   ]

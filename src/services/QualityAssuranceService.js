@@ -1,35 +1,30 @@
 class QualityAssuranceService {
-  baseUrl = 'http://localhost:3001'
-
   async getRobotsForQA() {
-    const response = await fetch(`${this.baseUrl}/robots.json`)
+    const response = await fetch(`/robots.json`)
     const json = await response.json()
     return json
   }
 
   async getShipments() {
-    const response = await fetch(`${this.baseUrl}/shipments.json`)
+    const response = await fetch(`/shipments.json`)
     const json = await response.json()
     return json
   }
 
   async extinguishRobot(id) {
-    const response = await fetch(
-      `${this.baseUrl}/robots/${id}/extinguish.json`,
-      {
-        method: 'post',
-        headers: {
-          Accept: 'application/json, text/plain, */*',
-          'Content-Type': 'application/json'
-        }
+    const response = await fetch(`/robots/${id}/extinguish.json`, {
+      method: 'post',
+      headers: {
+        Accept: 'application/json, text/plain, */*',
+        'Content-Type': 'application/json'
       }
-    )
+    })
 
     return response
   }
 
   async recycleRobots(ids) {
-    const response = await fetch(`${this.baseUrl}/robots/recycle.json`, {
+    const response = await fetch(`/robots/recycle.json`, {
       method: 'post',
       headers: {
         Accept: 'application/json, text/plain, */*',
@@ -42,7 +37,7 @@ class QualityAssuranceService {
   }
 
   async sendShipment(ids) {
-    const response = await fetch(`${this.baseUrl}/shipments/create`, {
+    const response = await fetch(`/shipments/create`, {
       method: 'put',
       headers: {
         Accept: 'application/json, text/plain, */*',

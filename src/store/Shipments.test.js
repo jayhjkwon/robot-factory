@@ -26,7 +26,7 @@ describe('actionCreators', () => {
   })
 
   it('getShipments action creator should create successShipmentList type action', async () => {
-    fetchMock.getOnce('http://localhost:3001/shipments.json', [])
+    fetchMock.getOnce('/shipments.json', [])
 
     const action = await actionCreators.getShipments()(
       mockedDispatch,
