@@ -1,5 +1,5 @@
 ## Demo
-[https://robot-factory.azurewebsites.net/](https://robot-factory.azurewebsites.net/)
+[https://jay-robot-factory.herokuapp.com/](https://jay-robot-factory.herokuapp.com/)
 
 ## Prerequisites
 - Node.js v8.0+
