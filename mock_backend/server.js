@@ -29,7 +29,7 @@ server.post('/robots/:id/extinguish.json', (req, res, next) => {
     .removeById(req.params.id)
     .write()
 
-  res.sendStatus(200)
+  res.json(true)
 })
 
 server.post('/robots/recycle.json', (req, res, next) => {
@@ -39,7 +39,7 @@ server.post('/robots/recycle.json', (req, res, next) => {
     .remove(n => _.includes(ids, n.id))
     .write()
 
-  res.sendStatus(200)
+  res.json(true)
 })
 
 server.put('/shipments/create', (req, res, next) => {
@@ -51,15 +51,18 @@ server.put('/shipments/create', (req, res, next) => {
     .write()
 
   // #2 insert into shipped robots
-  const collection = db.defaults({ shippedRobots: [] }).get('shippedRobots')
+  db.defaults({ shippedRobots: [] }).write()
   removedRobots.forEach(robot => {
-    const newPost = collection.insert(robot).write()
+    db
+      .get('shippedRobots')
+      .push(robot)
+      .write()
   })
 
-  res.sendStatus(200)
+  res.json(true)
 })
 
-server.get('/shipments', (req, res, next) => {
+server.get('/shipments.json', (req, res, next) => {
   const shippedRobots = db.get('shippedRobots').value()
   res.json(shippedRobots || [])
 })
